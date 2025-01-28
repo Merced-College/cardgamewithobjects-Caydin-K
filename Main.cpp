@@ -1,3 +1,6 @@
+//Caydin Klups
+//Luis Flories
+//Hemant Kularni 
 #include <iostream>
 #include <string>
 #include <cstdlib>
